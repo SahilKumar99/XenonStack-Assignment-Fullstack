@@ -19,7 +19,7 @@ To access the rest of the features you can run the api as following instructions
 ```bash
   cd backend
 ```
-and 
+  and 
 ```bash
   npm i 
 ```
@@ -31,3 +31,4 @@ and
 ```bash
     server frontend/
 ```
+#
