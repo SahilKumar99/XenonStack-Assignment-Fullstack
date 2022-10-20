@@ -3,7 +3,7 @@ This is a website created with the help of nodeJS. This website gives 3 options,
 
 This full stack website is written in nodejs using mongodb as a database and the frontend is written in vanillajs.
 
-Screenshots:
+## 📸 Screenshots:
 
 ![image](https://user-images.githubusercontent.com/104768169/196846730-001c64b2-aba5-4e06-8a8a-9c840e05fd1f.png)
 
@@ -11,6 +11,7 @@ Screenshots:
 
 ![image](https://user-images.githubusercontent.com/104768169/196846924-dbcc5b83-0eb0-4352-a071-0c182ea00625.png)
 
+##
 To access the rest of the features you can run the api as following instructions:
 
 1. Clone the mentioned files on your desktop.
