@@ -29,6 +29,6 @@ To access the rest of the features you can run the api as following instructions
 ```
 4. Now, you may navigate to frontend folder and run it using server package:
 ```bash
-    server frontend/
+  server frontend/
 ```
 #
